@@ -1,4 +1,4 @@
-# Huffman Compression Project
+# Huffman Text Compression Project
 
 ## Overview
 
